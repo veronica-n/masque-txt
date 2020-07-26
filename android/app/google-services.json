@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "795937180615",
+    "firebase_url": "https://masque-txt.firebaseio.com",
+    "project_id": "masque-txt",
+    "storage_bucket": "masque-txt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795937180615:android:92700c37a2033ddcc3e7e2",
+        "android_client_info": {
+          "package_name": "com.masquetxt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795937180615-28t4o5bk4d25erp5a44ad2kissfdb68a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_wEn2wLKvQ0fhwhRjtjWYkBpO8TRcoGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795937180615-28t4o5bk4d25erp5a44ad2kissfdb68a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
