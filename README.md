@@ -1,5 +1,6 @@
 # masque-txt:
 *MLH Hacky Birthday Hackathon Digi-Key Best Hardware Hack Winner*
+Team Members: Emily Lukas, Veronica Nguyen, Matthew Sam, Christopher Tang
 
 ## Inspiration:
 The recent pandemic outbreak has led to further emphasis in personal hygiene and protective face masks. 
