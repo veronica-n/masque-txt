@@ -1,5 +1,5 @@
 # masque-txt:
-*MLH Hacky Birthday Hackathon Digi-Key Best Hardware Hack Winner*
+*MLH Hacky Birthday Hackathon Digi-Key Best Hardware Hack Winner*  
 Team Members: Emily Lukas, Veronica Nguyen, Matthew Sam, Christopher Tang
 
 ## Inspiration:
