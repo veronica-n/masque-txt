@@ -1,4 +1,5 @@
-# masque-txt: MLH Hacky Birthday Digi-Key Best Hardware Hack Winner
+# masque-txt:
+MLH Hacky Birthday Hackathon Digi-Key Best Hardware Hack Winner
 
 # Inspiration:
 The recent pandemic outbreak has led to further emphasis in personal hygiene and protective face masks. 
